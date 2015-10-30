@@ -1,0 +1,57 @@
+var jsn = [
+    {
+        "home": {
+            "value": "Home"
+        },
+        "products": {
+            "children": {
+                "PCProducts1": {
+                    "value": "PCPROducts1"
+                },
+                "PCProducts2": {
+                    "value": "PCPROducts2"
+                },
+                "PCProducts3": {
+                    "value": "PCPROducts3"
+                }
+            },
+            "value": "Products"
+        },
+        "solutions": {
+            "value": "Solutions",
+            "children": {
+                "govt": {
+                    "value": "Government"
+                },
+                "Other Solutions": {
+                    "value": "Other Solutions",
+                    "children": {
+                        "education": {
+                            "value": "Education"
+                        },
+                        "publishing": {
+                            "value": "Publishing",
+                            "children": {
+                                "Digital": {
+                                    "value": "Digital"
+                                },
+                                "Analog": {
+                                    "value": "Analog"
+                                }
+                            }
+                        }
+                    },
+                    "properitory": {
+                        "value": "Private"
+                    }
+                }
+            }
+        },
+        "home2": {
+            "value": "Home2"
+        },
+        "home3": {
+            "value": "Home3"
+        },
+    }
+];
