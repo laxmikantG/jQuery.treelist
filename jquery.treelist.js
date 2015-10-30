@@ -213,6 +213,6 @@
 
 $(function(){
 	$("#target").treelist({
-		"source":jsn[0]
+		"source":jsn
 	});
 });
