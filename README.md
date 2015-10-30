@@ -17,6 +17,8 @@
  *  * Provide:  
  *       $ div class to populate listbox 
  *       $ JavaScript Object as a source in the format :      
+        
+ 
               [{
               		"object":   {	
     					 		"value":"Object"
@@ -32,6 +34,8 @@
   								},
   					...
   				}]
+
+
  * DONE - Use any class to populate treelist
  * TODO - Array of Objects can be passed.
  * TODO - Instead of class it should support the id
